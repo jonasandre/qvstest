@@ -1,0 +1,4 @@
+data:
+Load
+    RowNo() as ID
+AutoGenerate 1000;
